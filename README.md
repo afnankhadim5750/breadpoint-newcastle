@@ -1,6 +1,6 @@
 # Breadpoint
 
-Demo website concept for **Breadpoint** — Newcastle upon Tyne, UK.
+Demo website concept for **Breadpoint** — Newcastle upon Tyne.
 
 Live preview: https://breadpoint-newcastle-mockup.netlify.app
 
